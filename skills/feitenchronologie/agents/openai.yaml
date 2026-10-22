@@ -1,0 +1,5 @@
+interface:
+  display_name: "Feitenchronologie"
+  short_description: "Chronologische feitentabel uit een dossier: bron per feit, vaststaand vs. stelling, betwist/onbetwist, tegenstrijdigheden."
+policy:
+  allow_implicit_invocation: false

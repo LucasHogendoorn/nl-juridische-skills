@@ -1,0 +1,5 @@
+interface:
+  display_name: "Tuchtrecht"
+  short_description: "Tuchtrechtuitspraken (advocaten, zorg, notarissen, deurwaarders, accountants) zoeken en ophalen met ECLI, datum en inhoudsindicatie."
+policy:
+  allow_implicit_invocation: true

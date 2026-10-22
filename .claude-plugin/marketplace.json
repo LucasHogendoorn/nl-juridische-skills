@@ -1,0 +1,21 @@
+{
+  "name": "nl-juridische-skills",
+  "owner": {
+    "name": "Lucas Hogendoorn"
+  },
+  "metadata": {
+    "description": "Twaalf Nederlandse juridische skills voor Claude Code en Codex",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "nl-juridische-skills",
+      "source": "./",
+      "description": "12 skills voor juridisch onderzoek en schrijven naar Nederlands recht, op basis van officiële openbare bronnen.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "category": "legal",
+      "homepage": "https://github.com/LucasHogendoorn/nl-juridische-skills"
+    }
+  ]
+}

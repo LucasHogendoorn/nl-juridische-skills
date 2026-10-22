@@ -1,0 +1,20 @@
+{
+  "_toelichting": "Feestdagen voor de Algemene termijnenwet (Atw). Vaste dagen en de paasafhankelijke dagen volgen uit art. 3 lid 1 en 2 Atw en worden in scripts/termijnen.py berekend. Hieronder alleen de dagen die per Koninklijk Besluit op grond van art. 3 lid 3 Atw met een feestdag zijn gelijkgesteld (gepubliceerd in de Staatscourant). Peildatum van deze tabel: 2026-09-23. Gevonden via de officiele KOOP SRU-zoekdienst (repository.overheid.nl/sru), zoekvraag: dt.title any \"gelijkstelling\" AND dt.title any \"feestdag\" AND dt.date>=2018-01-01; drie besluiten gevonden. De tekst van elk besluit is gelezen.",
+  "peildatum": "2026-09-23",
+  "gedekte_jaren": [2020, 2028],
+  "gelijkgestelde_dagen": [
+    {"datum": "2020-05-22", "bron": "Stcrt. 2019, 53179 (Besluit van 20 september 2019, nr. 2016001827), art. 1"},
+    {"datum": "2021-05-14", "bron": "Stcrt. 2019, 53179 (Besluit van 20 september 2019, nr. 2016001827), art. 1"},
+    {"datum": "2022-05-27", "bron": "Stcrt. 2019, 53179 (Besluit van 20 september 2019, nr. 2016001827), art. 1"},
+    {"datum": "2023-04-28", "bron": "Stcrt. 2022, 7812 (Besluit van 8 maart 2022, nr. 2022000289), art. 1"},
+    {"datum": "2023-05-19", "bron": "Stcrt. 2022, 7812 (Besluit van 8 maart 2022, nr. 2022000289), art. 1"},
+    {"datum": "2024-05-10", "bron": "Stcrt. 2022, 7812 (Besluit van 8 maart 2022, nr. 2022000289), art. 1"},
+    {"datum": "2024-12-27", "bron": "Stcrt. 2022, 7812 (Besluit van 8 maart 2022, nr. 2022000289), art. 1"},
+    {"datum": "2025-05-30", "bron": "Stcrt. 2022, 7812 (Besluit van 8 maart 2022, nr. 2022000289), art. 1"},
+    {"datum": "2026-01-02", "bron": "Stcrt. 2025, 24713 (Besluit van 1 juli 2025, nr. 2025001422), art. 1"},
+    {"datum": "2026-05-15", "bron": "Stcrt. 2025, 24713 (Besluit van 1 juli 2025, nr. 2025001422), art. 1"},
+    {"datum": "2027-05-07", "bron": "Stcrt. 2025, 24713 (Besluit van 1 juli 2025, nr. 2025001422), art. 1"},
+    {"datum": "2028-04-28", "bron": "Stcrt. 2025, 24713 (Besluit van 1 juli 2025, nr. 2025001422), art. 1"},
+    {"datum": "2028-05-26", "bron": "Stcrt. 2025, 24713 (Besluit van 1 juli 2025, nr. 2025001422), art. 1"}
+  ]
+}

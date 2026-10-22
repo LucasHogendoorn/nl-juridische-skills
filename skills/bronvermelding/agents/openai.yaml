@@ -1,0 +1,5 @@
+interface:
+  display_name: "Bronvermelding"
+  short_description: "Nederlandse juridische bronvermelding: wet, rechtspraak, Kamerstukken, EU, literatuur; ook controle van geplakte tekst"
+policy:
+  allow_implicit_invocation: true

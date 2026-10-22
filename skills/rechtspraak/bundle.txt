@@ -1,0 +1,4 @@
+# Gedeelde modules uit shared/ die tools/build.py naar scripts/ kopieert
+nl_http.py
+rechtspraak_client.py
+celex_client.py

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0005290/2026-07-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0005290" inwerkingtreding="2026-07-01"><wetgeving><wet-besluit><wettekst><artikel bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669" stam-id="2965283" versie-id="26320592" id="C37410561" label-id="2914224" inwerking="2020-01-01" label="Artikel 669" bron="Stb.2019-483" effect="wijziging" ondertekening_bron="2019-12-11" publicatie_bron="2019-12-17" publicatie_iwt="2019-12-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">669</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid1" label-id="2914224L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De werkgever kan de arbeidsovereenkomst opzeggen indien daar een redelijke grond voor is en herplaatsing van de werknemer binnen een redelijke termijn, al dan niet met behulp van scholing, in een andere passende functie niet mogelijk is of niet in de rede ligt. Herplaatsing ligt in ieder geval niet in de rede indien sprake is van verwijtbaar handelen of nalaten van de werknemer als bedoeld in lid 3, onderdeel e.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=1&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=1" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid2" label-id="2914224L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Herplaatsing, bedoeld in lid 1, is niet vereist, indien de werknemer een geestelijk ambt bekleedt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=2&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=2" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3" label-id="2914224L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Onder een redelijke grond als bedoeld in lid 1 wordt verstaan:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het vervallen van arbeidsplaatsen als gevolg van de beëindiging van de werkzaamheden van de onderneming of het, over een toekomstige periode van ten minste 26 weken bezien, noodzakelijkerwijs vervallen van arbeidsplaatsen als gevolg van het wegens bedrijfseconomische omstandigheden treffen van maatregelen voor een doelmatige bedrijfsvoering;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=a&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>ziekte of gebreken van de werknemer waardoor hij niet meer in staat is de bedongen arbeid te verrichten, mits de periode, bedoeld in <intref doc="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=670&amp;z=2026-07-01&amp;g=2026-07-01" label-id="2914234" verwijzing-id="2642261" bwb-id="BWBR0005290" bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel670">artikel 670, leden 1 en 11</intref>, is verstreken en aannemelijk is dat binnen 26 weken, of bij een werknemer die de in <extref doc="jci1.3:c:BWBR0002221&amp;artikel=7" label-id="2497964" verwijzing-id="2723321" bwb-id="BWBR0002221">artikel 7, onderdeel a, van de Algemene Ouderdomswet</extref> bedoelde leeftijd heeft bereikt, 6 weken, geen herstel zal optreden en dat binnen die periode de bedongen arbeid niet in aangepaste vorm kan worden verricht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=b&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=b" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het bij regelmaat niet kunnen verrichten van de bedongen arbeid als gevolg van ziekte of gebreken van de werknemer met voor de bedrijfsvoering onaanvaardbare gevolgen, mits het bij regelmaat niet kunnen verrichten van de bedongen arbeid niet het gevolg is van onvoldoende zorg van de werkgever voor de arbeidsomstandigheden van de werknemer en aannemelijk is dat binnen 26 weken, of bij een werknemer die de in <extref doc="jci1.3:c:BWBR0002221&amp;artikel=7" label-id="2497964" verwijzing-id="2723502" bwb-id="BWBR0002221">artikel 7, onderdeel a, van de Algemene Ouderdomswet</extref> bedoelde leeftijd heeft bereikt, 6 weken, geen herstel zal optreden en dat binnen die periode de bedongen arbeid niet in aangepaste vorm kan worden verricht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=c&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=c" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de ongeschiktheid van de werknemer tot het verrichten van de bedongen arbeid, anders dan ten gevolge van ziekte of gebreken van de werknemer, mits de werkgever de werknemer hiervan tijdig in kennis heeft gesteld en hem in voldoende mate in de gelegenheid heeft gesteld zijn functioneren te verbeteren en de ongeschiktheid niet het gevolg is van onvoldoende zorg van de werkgever voor scholing van de werknemer of voor de arbeidsomstandigheden van de werknemer;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=d&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=d" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>verwijtbaar handelen of nalaten van de werknemer, zodanig dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=e&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=e" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>het weigeren van de werknemer de bedongen arbeid te verrichten wegens een ernstig gewetensbezwaar, mits aannemelijk is dat de bedongen arbeid niet in aangepaste vorm kan worden verricht;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=f&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=f" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>een verstoorde arbeidsverhouding, zodanig dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=g&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=g" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>andere dan de hiervoor genoemde omstandigheden die zodanig zijn dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=h&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=h" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid3/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>een combinatie van omstandigheden genoemd in twee of meer van de gronden, bedoeld in de onderdelen c tot en met e, g en h, die zodanig is dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;o=i&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=i" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=3&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=3" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid4" label-id="2914224L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Tenzij schriftelijk anders is overeengekomen, kan de werkgever de arbeidsovereenkomst, die is ingegaan voor het bereiken van een tussen partijen overeengekomen leeftijd waarop de arbeidsovereenkomst eindigt, of, indien geen andere leeftijd is overeengekomen, de in <extref doc="jci1.3:c:BWBR0002221&amp;artikel=7" label-id="2497964" verwijzing-id="2731315" bwb-id="BWBR0002221">artikel 7, onderdeel a, van de Algemene Ouderdomswet</extref> bedoelde leeftijd, eveneens opzeggen in verband met of na het bereiken van de tussen partijen overeengekomen leeftijd waarop de arbeidsovereenkomst eindigt, of, indien geen andere leeftijd is overeengekomen, de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=4&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=4" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid5" label-id="2914224L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>nadere regels gesteld met betrekking tot een redelijke grond voor opzegging, de herplaatsing van de werknemer en de redelijke termijn, bedoeld in lid 1, waarbij onderscheid kan worden gemaakt naar categorieën van werknemers;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=5&amp;o=a&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>regels gesteld voor het bepalen van de volgorde van opzegging bij het vervallen van arbeidsplaatsen, bedoeld in lid 3, onderdeel a.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=5&amp;o=b&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=b" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=5&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=5" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid6" label-id="2914224L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De regels, bedoeld in lid 5, onderdeel b, zijn niet van toepassing indien bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, andere regels worden gesteld voor het bepalen van de volgorde van opzegging bij het vervallen van arbeidsplaatsen, bedoeld in lid 3, onderdeel a, en een onafhankelijke commissie als bedoeld in <intref doc="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=671a&amp;z=2026-07-01&amp;g=2026-07-01" label-id="12670184" verwijzing-id="2642317" bwb-id="BWBR0005290" bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel671a">artikel 671a, lid 2</intref>, wordt aangewezen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=6&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=6" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel669/Lid7" label-id="2914224L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>Dit artikel is niet van toepassing op een opzegging tijdens de proeftijd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;lid=7&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=7" /></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-483"><publicatiejaar>2019</publicatiejaar><publicatienr>483</publicatienr><uitgiftedatum isodatum="2019-12-17">17-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-11">11-12-2019</ondertekeningsdatum><dossierref dossier="35275">35275</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-484"><publicatiejaar>2019</publicatiejaar><publicatienr>484</publicatienr><uitgiftedatum isodatum="2019-12-17">17-12-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-12-11">11-12-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-219"><publicatiejaar>2019</publicatiejaar><publicatienr>219</publicatienr><uitgiftedatum isodatum="2019-06-19">19-06-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-05-29">29-05-2019</ondertekeningsdatum><dossierref dossier="35074">35074</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-266"><publicatiejaar>2019</publicatiejaar><publicatienr>266</publicatienr><uitgiftedatum isodatum="2019-07-18">18-07-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-07-11">11-07-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Artikel XI van Stb. 2019/219 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005290&amp;artikel=669&amp;g=2026-07-01" onderdeel="artikel=669" korte-verwijzing="1.0:c:BWBR0005290&amp;artikel=669" /><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=669&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="artikel=669" korte-verwijzing="jci1.3:c:BWBR0005290&amp;artikel=669" /></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673" stam-id="2965323" versie-id="31237562" id="C44675691" label-id="2914264" inwerking="2026-01-01" label="Artikel 673" bron="Stcrt.2025-43567" effect="wijziging" ondertekening_bron="2025-12-10" publicatie_bron="2025-12-18" publicatie_iwt="2025-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">673</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1" label-id="2914264L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De werkgever is aan de werknemer een transitievergoeding verschuldigd indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de arbeidsovereenkomst:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1/Onderdeela/Onderdeel1">
+            <li.nr>1°</li.nr>
+            <al>door de werkgever is opgezegd;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;o=a&amp;o=1&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=1" /></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1/Onderdeela/Onderdeel2">
+            <li.nr>2°</li.nr>
+            <al>op verzoek van de werkgever is ontbonden; of</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;o=a&amp;o=2&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=2" /></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1/Onderdeela/Onderdeel3">
+            <li.nr>3°</li.nr>
+            <al>na een einde van rechtswege op initiatief van de werkgever niet aansluitend is voortgezet en voor het eindigen van de arbeidsovereenkomst geen opvolgende arbeidsovereenkomst is aangegaan, die tussentijds kan worden opgezegd en ingaat na een tussenpoos van ten hoogste zes maanden; of</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;o=a&amp;o=3&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=3" /></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;o=a&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de arbeidsovereenkomst als gevolg van ernstig verwijtbaar handelen of nalaten van de werkgever:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1/Onderdeelb/Onderdeel1">
+            <li.nr>1°</li.nr>
+            <al>door de werknemer is opgezegd;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;o=b&amp;o=1&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=1" /></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1/Onderdeelb/Onderdeel2">
+            <li.nr>2°</li.nr>
+            <al>op verzoek van de werknemer is ontbonden; of</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;o=b&amp;o=2&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=2" /></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid1/Onderdeelb/Onderdeel3">
+            <li.nr>3°</li.nr>
+            <al>na een einde van rechtswege op initiatief van de werknemer niet aansluitend is voortgezet.</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;o=b&amp;o=3&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=3" /></jcis></meta-data></li>
+        </lijst>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;o=b&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=b" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=1&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=1" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid2" label-id="2914264L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De transitievergoeding is voor elk jaar dat de arbeidsovereenkomst heeft geduurd gelijk aan een derde van het loon per maand en een evenredig deel daarvan voor een periode dat de arbeidsovereenkomst korter dan een jaar heeft geduurd. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de berekeningswijze van de transitievergoeding. De transitievergoeding bedraagt maximaal € 102.000,00 of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=2&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=2" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid3" label-id="2914264L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het bedrag, genoemd in lid 2, wordt telkens met ingang van 1 januari door Onze Minister van Sociale Zaken en Werkgelegenheid gewijzigd overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen, in het voorafgaande jaar is geraamd. Het bedrag wordt daarbij afgerond op het naaste veelvoud van € 1.000,–. Het gewijzigde bedrag is uitsluitend van toepassing indien de arbeidsovereenkomst op of na de datum van de wijziging eindigt of niet wordt voortgezet.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=3&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=3" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid4" label-id="2914264L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Voor de berekening van de duur van de arbeidsovereenkomst, bedoeld in lid 2, worden:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid4/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>maanden waarin de gemiddelde omvang van de door de werknemer verrichte arbeid ten hoogste twaalf uur per week heeft bedragen, tot het bereiken van de achttienjarige leeftijd buiten beschouwing gelaten; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=4&amp;o=a&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid4/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een of meer voorafgaande arbeidsovereenkomsten tussen dezelfde partijen, die elkaar met tussenpozen van ten hoogste zes maanden hebben opgevolgd, samengeteld. De vorige zin is eveneens van toepassing indien de werknemer achtereenvolgens in dienst is geweest bij verschillende werkgevers die, ongeacht of inzicht bestaat in de hoedanigheid en geschiktheid van de werknemer, ten aanzien van de verrichte arbeid redelijkerwijze geacht moeten worden elkaars opvolger te zijn.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=4&amp;o=b&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=b" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=4&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=4" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid5" label-id="2914264L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>Indien in de in lid 4, onderdeel b, bedoelde situatie bij de beëindiging van een voorafgaande arbeidsovereenkomst:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een transitievergoeding is betaald, wordt een bedrag ter hoogte van de transitievergoeding die bij die beëindiging op grond van de leden 1 en 2 verschuldigd was in mindering gebracht op de transitievergoeding;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=5&amp;o=a&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>op grond van <intref doc="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673b&amp;z=2026-07-01&amp;g=2026-07-01" label-id="12670224" verwijzing-id="2954522" bwb-id="BWBR0005290" bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673b">artikel 673b, lid 1</intref>, een voorziening is verstrekt, wordt een bedrag ter waarde van die voorziening in mindering gebracht op de transitievergoeding.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=5&amp;o=b&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=b" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=5&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=5" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid6" label-id="2914264L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>Onder bij of krachtens algemene maatregel van bestuur te bepalen voorwaarden kunnen op de transitievergoeding in mindering worden gebracht:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid6/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>kosten van maatregelen in verband met het eindigen of niet voortzetten van de arbeidsovereenkomst, gericht op het voorkomen van werkloosheid of het bekorten van de periode van werkloosheid van de werknemer; en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=6&amp;o=a&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid6/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>kosten verband houdende met het bevorderen van de bredere inzetbaarheid van de werknemer die tijdens de arbeidsovereenkomst zijn gemaakt.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=6&amp;o=b&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=b" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=6&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=6" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid7" label-id="2914264L7">
+    <lidnr status="officieel">7</lidnr>
+    <al>De transitievergoeding is niet verschuldigd indien het eindigen of niet voortzetten van de arbeidsovereenkomst:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid7/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>geschiedt voor de dag waarop de werknemer de leeftijd van achttien jaar heeft bereikt en de gemiddelde omvang van de door hem verrichte arbeid ten hoogste twaalf uur per week heeft bedragen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=7&amp;o=a&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid7/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>geschiedt in verband met of na het bereiken van een bij of krachtens wet vastgestelde of tussen partijen overeengekomen leeftijd waarop de arbeidsovereenkomst eindigt, of, indien geen andere leeftijd geldt, de in <extref doc="jci1.3:c:BWBR0002221&amp;artikel=7" label-id="2497964" verwijzing-id="2731322" bwb-id="BWBR0002221">artikel 7, onderdeel a, van de Algemene Ouderdomswet</extref> bedoelde leeftijd; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=7&amp;o=b&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=b" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid7/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=7&amp;o=c&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=c" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=7&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=7" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid8" label-id="2914264L8">
+    <lidnr status="officieel">8</lidnr>
+    <al>In afwijking van lid 7, onderdeel c, kan de kantonrechter de transitievergoeding geheel of gedeeltelijk aan de werknemer toekennen indien het niet toekennen ervan naar maatstaven van redelijkheid en billijkheid onaanvaardbaar is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=8&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=8" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid9" label-id="2914264L9">
+    <lidnr status="officieel">9</lidnr>
+    <al>Indien, na een einde van rechtswege, het niet voortzetten van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever, kan de kantonrechter:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid9/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>naast de transitievergoeding aan de werknemer ten laste van de werkgever een billijke vergoeding toekennen; of</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=9&amp;o=a&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid9/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>indien de werknemer op grond van lid 7, onderdeel a, geen recht op transitievergoeding heeft, aan de werknemer ten laste van de werkgever een billijke vergoeding toekennen.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=9&amp;o=b&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="o=b" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=9&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=9" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Boek7/Titeldeel10/Afdeling9/Artikel673/Lid10" label-id="2914264L10">
+    <lidnr status="officieel">10</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur wordt bepaald wat voor de toepassing van lid 2 wordt verstaan onder loon.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;lid=10&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="lid=10" /></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2025-43567"><publicatiejaar>2025</publicatiejaar><publicatienr>43567</publicatienr><uitgiftedatum isodatum="2025-12-18">18-12-2025</uitgiftedatum><ondertekeningsdatum isodatum="2025-12-10">10-12-2025</ondertekeningsdatum><kenmerk>2025-000239225</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2025-43567"><publicatiejaar>2025</publicatiejaar><publicatienr>43567</publicatienr><uitgiftedatum isodatum="2025-12-18">18-12-2025</uitgiftedatum><ondertekeningsdatum isodatum="2025-12-10">10-12-2025</ondertekeningsdatum><kenmerk>2025-000239225</kenmerk></publicatie><inwerkingtreding.datum isodatum="2026-01-01">01-01-2026</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005290&amp;artikel=673&amp;g=2026-07-01" onderdeel="artikel=673" korte-verwijzing="1.0:c:BWBR0005290&amp;artikel=673" /><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005290&amp;boek=7&amp;titeldeel=10&amp;afdeling=9&amp;artikel=673&amp;z=2026-07-01&amp;g=2026-07-01" onderdeel="artikel=673" korte-verwijzing="jci1.3:c:BWBR0005290&amp;artikel=673" /></jcis></meta-data></artikel></wettekst></wet-besluit></wetgeving></toestand>

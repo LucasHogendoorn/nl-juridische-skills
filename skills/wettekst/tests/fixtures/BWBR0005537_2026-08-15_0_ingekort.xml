@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0005537/2026-08-15/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0005537" inwerkingtreding="2026-08-15"><wetgeving><wet-besluit><wettekst><artikel bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1" stam-id="2866083" versie-id="24018202" id="C37672241" label-id="2813914" inwerking="2020-01-01" label="Artikel 1:1" bron="Stb.2017-123" effect="wijziging" ondertekening_bron="2017-03-09" publicatie_bron="2017-03-28" publicatie_iwt="2019-11-06" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1:1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid1" label-id="2813914L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Onder bestuursorgaan wordt verstaan: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, of </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=1&amp;o=a&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>een ander persoon of college, met enig openbaar gezag bekleed. </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=1&amp;o=b&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=b" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=1&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="lid=1" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2" label-id="2813914L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De volgende organen, personen en colleges worden niet als bestuursorgaan aangemerkt: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de wetgevende macht; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=a&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=a" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de kamers en de verenigde vergadering der Staten-Generaal; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=b&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=b" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>onafhankelijke, bij de wet ingestelde organen die met rechtspraak zijn belast, alsmede de Raad voor de rechtspraak en het College van afgevaardigden; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=c&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=c" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de Raad van State en zijn afdelingen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=d&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=d" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de Algemene Rekenkamer; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=e&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=e" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeelf">
+        <li.nr>f.</li.nr>
+        <al>de Nationale ombudsman en de substituut-ombudsmannen als bedoeld in <extref doc="jci1.3:c:BWBR0003372&amp;artikel=9" label-id="871544" verwijzing-id="1935381" bwb-id="BWBR0003372">artikel 9, eerste lid, van de Wet Nationale ombudsman</extref>, en ombudsmannen en ombudscommissies als bedoeld in <intref doc="jci1.3:c:BWBR0005537&amp;hoofdstuk=9&amp;titeldeel=9.2&amp;afdeling=9.2.1&amp;artikel=9:17&amp;z=2026-08-15&amp;g=2026-08-15" label-id="6767134" verwijzing-id="1935398" bwb-id="BWBR0005537" bwb-ng-variabel-deel="/Hoofdstuk9/Titeldeel9.2/Afdeling9.2.1/Artikel9:17">artikel 9:17, onderdeel b</intref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=f&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=f" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeelg">
+        <li.nr>g.</li.nr>
+        <al>de voorzitters, leden, griffiers en secretarissen van de in de onderdelen <nadruk type="cur">b</nadruk> tot en met <nadruk type="cur">f</nadruk> bedoelde organen, de procureur-generaal, de plaatsvervangend procureur-generaal en de advocaten-generaal bij de Hoge Raad, de besturen van de in onderdeel c bedoelde organen alsmede de voorzitters van die besturen, alsmede de commissies uit het midden van de in de onderdelen <nadruk type="cur">b</nadruk> tot en met <nadruk type="cur">f</nadruk> bedoelde organen; </al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=g&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=g" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeelh">
+        <li.nr>h.</li.nr>
+        <al>de commissie van toezicht op de inlichtingen- en veiligheidsdiensten en haar afdelingen, bedoeld in <extref doc="jci1.3:c:BWBR0039896&amp;artikel=97" label-id="14095914" verwijzing-id="2836327" bwb-id="BWBR0039896">artikel 97 van de Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=h&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=h" /></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid2/Onderdeeli">
+        <li.nr>i.</li.nr>
+        <al>de toetsingscommissie inzet bevoegdheden, bedoeld in <extref doc="jci1.3:c:BWBR0039896&amp;artikel=32" label-id="14094834" verwijzing-id="2836328" bwb-id="BWBR0039896">artikel 32 van de Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;o=i&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="o=i" /></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=2&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="lid=2" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid3" label-id="2813914L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Een ingevolge het tweede lid uitgezonderd orgaan, persoon of college wordt wel als bestuursorgaan aangemerkt voor zover het orgaan, de persoon of het college besluiten neemt of handelingen verricht ten aanzien van een persoon met betrekking tot diens in <extref doc="jci1.3:c:BWBR0001947&amp;artikel=3" label-id="1202734" verwijzing-id="2966763" bwb-id="BWBR0001947">artikel 3 van de Ambtenarenwet 2017</extref> bedoelde hoedanigheid, zijn nagelaten betrekkingen of zijn rechtverkrijgenden, met uitzondering van een voor het leven benoemde ambtenaar werkzaam bij de Raad van State en zijn afdelingen en de Algemene Rekenkamer. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=3&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="lid=3" /></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Hoofdstuk1/Titeldeel1.1/Artikel1:1/Lid4" label-id="2813914L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>De vermogensrechtelijke gevolgen van een handeling van een bestuursorgaan treffen de rechtspersoon waartoe het bestuursorgaan behoort.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;lid=4&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="lid=4" /></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2017-123"><publicatiejaar>2017</publicatiejaar><publicatienr>123</publicatienr><uitgiftedatum isodatum="2017-03-28">28-03-2017</uitgiftedatum><ondertekeningsdatum isodatum="2017-03-09">09-03-2017</ondertekeningsdatum><dossierref dossier="32550">32550</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2019-385"><publicatiejaar>2019</publicatiejaar><publicatienr>385</publicatienr><uitgiftedatum isodatum="2019-11-06">06-11-2019</uitgiftedatum><ondertekeningsdatum isodatum="2019-10-24">24-10-2019</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-01-01">01-01-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005537&amp;artikel=1%3A1&amp;g=2026-08-15" onderdeel="artikel=1%3A1" korte-verwijzing="1.0:c:BWBR0005537&amp;artikel=1%3A1" /><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="artikel=1:1" korte-verwijzing="jci1.3:c:BWBR0005537&amp;artikel=1:1" /></jcis></meta-data></artikel><artikel bwb-ng-variabel-deel="/Hoofdstuk8/Titeldeel8.1/Afdeling8.1.1/Artikel8:1" stam-id="2867743" versie-id="20002522" id="C42827071" label-id="2815574" inwerking="2013-01-01" label="Artikel 8:1" bron="Stb.2012-682" effect="wijziging" ondertekening_bron="2012-12-20" publicatie_bron="2012-12-27" publicatie_iwt="2012-12-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8:1</nr>
+  </kop>
+  <al>Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-682"><publicatiejaar>2012</publicatiejaar><publicatienr>682</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum><dossierref dossier="32450">32450</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2012-684"><publicatiejaar>2012</publicatiejaar><publicatienr>684</publicatienr><uitgiftedatum isodatum="2012-12-27">27-12-2012</uitgiftedatum><ondertekeningsdatum isodatum="2012-12-20">20-12-2012</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2013-01-01">01-01-2013</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Deel C, artikel I, van Stb. 2012/682 bevat overgangsrecht m.b.t. deze wijziging.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0005537&amp;artikel=8%3A1&amp;g=2026-08-15" onderdeel="artikel=8%3A1" korte-verwijzing="1.0:c:BWBR0005537&amp;artikel=8%3A1" /><jci versie="1.3" verwijzing="jci1.3:c:BWBR0005537&amp;hoofdstuk=8&amp;titeldeel=8.1&amp;afdeling=8.1.1&amp;artikel=8:1&amp;z=2026-08-15&amp;g=2026-08-15" onderdeel="artikel=8:1" korte-verwijzing="jci1.3:c:BWBR0005537&amp;artikel=8:1" /></jcis></meta-data></artikel></wettekst></wet-besluit></wetgeving></toestand>

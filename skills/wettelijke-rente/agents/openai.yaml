@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wettelijke rente"
+  short_description: "Rekenhulp wettelijke rente (6:119 BW) en handelsrente (6:119a BW) met kapitalisatie en deelbetalingen."
+policy:
+  allow_implicit_invocation: true

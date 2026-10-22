@@ -1,0 +1,5 @@
+interface:
+  display_name: "Termijnen"
+  short_description: "Rekenhulp procestermijnen (appel, cassatie, Awb-bezwaar/beroep, strafappel) met Algemene termijnenwet."
+policy:
+  allow_implicit_invocation: true

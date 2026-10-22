@@ -1,0 +1,275 @@
+{
+ "_toelichting": "Wettelijke rente. Niet-handelstransacties: art. 6:119 BW, percentage bij AMvB (art. 6:120 lid 1 BW); elke rij geverifieerd in de tekst van het genoemde Staatsblad (repository.overheid.nl) en, tot 2022, in de BWB-toestanden van het Besluit wettelijke rente (BWBR0002744). Handelstransacties: art. 6:119a BW, percentage = ECB-herfinancieringsrente van de meest recente basisherfinancieringstransactie voor de eerste kalenderdag van het halfjaar + 8 procentpunten (art. 6:120 lid 2 BW sinds 16-3-2013, Stb. 2012, 647); ECB-waarden uit de officiele ECB-reeks MRR_FR. Er is geen officiele Nederlandse tabel voor de handelsrente; alleen het percentage vanaf 1-7-2026 (10,4%) is bevestigd door rijksoverheid.nl. Peildatum 2026-09-23.",
+ "peildatum": "2026-09-23",
+ "geldig_tot_en_met": "2026-12-31",
+ "niet_handel": [
+  {
+   "vanaf": "2002-01-01",
+   "pct": "7",
+   "bron": "Stb. 2001, 630 (Besluit wettelijke rente, BWB-toestand BWBR0002744 2002-01-01_0: 'zeven procent')"
+  },
+  {
+   "vanaf": "2003-08-01",
+   "pct": "5",
+   "bron": "Stb. 2003, 280"
+  },
+  {
+   "vanaf": "2004-02-01",
+   "pct": "4",
+   "bron": "Stb. 2004, 13"
+  },
+  {
+   "vanaf": "2007-01-01",
+   "pct": "6",
+   "bron": "Stb. 2006, 700"
+  },
+  {
+   "vanaf": "2009-07-01",
+   "pct": "4",
+   "bron": "Stb. 2009, 262"
+  },
+  {
+   "vanaf": "2010-01-01",
+   "pct": "3",
+   "bron": "Stb. 2009, 618"
+  },
+  {
+   "vanaf": "2011-07-01",
+   "pct": "4",
+   "bron": "Stb. 2011, 317"
+  },
+  {
+   "vanaf": "2012-07-01",
+   "pct": "3",
+   "bron": "Stb. 2012, 285"
+  },
+  {
+   "vanaf": "2015-01-01",
+   "pct": "2",
+   "bron": "Stb. 2014, 491 (BWB-toestand 2015-01-01_0 geldig t/m 2022-12-31: 'twee procent')"
+  },
+  {
+   "vanaf": "2023-01-01",
+   "pct": "4",
+   "bron": "Stb. 2022, 520 (Besluit van 15 december 2022 tot vaststelling wettelijke rente, art. 1: 'vier procent')"
+  },
+  {
+   "vanaf": "2023-07-01",
+   "pct": "6",
+   "bron": "Stb. 2023, 235"
+  },
+  {
+   "vanaf": "2024-01-01",
+   "pct": "7",
+   "bron": "Stb. 2023, 484"
+  },
+  {
+   "vanaf": "2025-01-01",
+   "pct": "6",
+   "bron": "Stb. 2024, 395"
+  },
+  {
+   "vanaf": "2026-01-01",
+   "pct": "4",
+   "bron": "Stb. 2025, 438"
+  }
+ ],
+ "handel": [
+  {
+   "vanaf": "2013-03-16",
+   "pct": "8.75",
+   "ecb_mro": "0.75",
+   "ecb_mro_sinds": "2012-07-11",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0.75% geldend vanaf 2012-07-11 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2013-07-01",
+   "pct": "8.5",
+   "ecb_mro": "0.5",
+   "ecb_mro_sinds": "2013-05-08",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0.5% geldend vanaf 2013-05-08 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2014-01-01",
+   "pct": "8.25",
+   "ecb_mro": "0.25",
+   "ecb_mro_sinds": "2013-11-13",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0.25% geldend vanaf 2013-11-13 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2014-07-01",
+   "pct": "8.15",
+   "ecb_mro": "0.15",
+   "ecb_mro_sinds": "2014-06-11",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0.15% geldend vanaf 2014-06-11 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2015-01-01",
+   "pct": "8.05",
+   "ecb_mro": "0.05",
+   "ecb_mro_sinds": "2014-09-10",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0.05% geldend vanaf 2014-09-10 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2015-07-01",
+   "pct": "8.05",
+   "ecb_mro": "0.05",
+   "ecb_mro_sinds": "2014-09-10",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0.05% geldend vanaf 2014-09-10 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2016-01-01",
+   "pct": "8.05",
+   "ecb_mro": "0.05",
+   "ecb_mro_sinds": "2014-09-10",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0.05% geldend vanaf 2014-09-10 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2016-07-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2017-01-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2017-07-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2018-01-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2018-07-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2019-01-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2019-07-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2020-01-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2020-07-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2021-01-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2021-07-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2022-01-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2022-07-01",
+   "pct": "8",
+   "ecb_mro": "0",
+   "ecb_mro_sinds": "2016-03-16",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 0% geldend vanaf 2016-03-16 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2023-01-01",
+   "pct": "10.5",
+   "ecb_mro": "2.5",
+   "ecb_mro_sinds": "2022-12-21",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 2.5% geldend vanaf 2022-12-21 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2023-07-01",
+   "pct": "12",
+   "ecb_mro": "4",
+   "ecb_mro_sinds": "2023-06-21",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 4% geldend vanaf 2023-06-21 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2024-01-01",
+   "pct": "12.5",
+   "ecb_mro": "4.5",
+   "ecb_mro_sinds": "2023-09-20",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 4.5% geldend vanaf 2023-09-20 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2024-07-01",
+   "pct": "12.25",
+   "ecb_mro": "4.25",
+   "ecb_mro_sinds": "2024-06-12",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 4.25% geldend vanaf 2024-06-12 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2025-01-01",
+   "pct": "11.15",
+   "ecb_mro": "3.15",
+   "ecb_mro_sinds": "2024-12-18",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 3.15% geldend vanaf 2024-12-18 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2025-07-01",
+   "pct": "10.15",
+   "ecb_mro": "2.15",
+   "ecb_mro_sinds": "2025-06-11",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 2.15% geldend vanaf 2025-06-11 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2026-01-01",
+   "pct": "10.15",
+   "ecb_mro": "2.15",
+   "ecb_mro_sinds": "2025-06-11",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 2.15% geldend vanaf 2025-06-11 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  },
+  {
+   "vanaf": "2026-07-01",
+   "pct": "10.4",
+   "ecb_mro": "2.4",
+   "ecb_mro_sinds": "2026-06-17",
+   "bron": "art. 6:120 lid 2 BW (ECB-herfinancieringsrente + 8 procentpunten, Stb. 2012, 647); ECB MRO fixed rate 2.4% geldend vanaf 2026-06-17 (ECB Data Portal FM.B.U2.EUR.4F.KR.MRR_FR.LEV)"
+  }
+ ]
+}

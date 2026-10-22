@@ -1,0 +1,5 @@
+interface:
+  display_name: "Parlementaire geschiedenis"
+  short_description: "Kamerstukken en Handelingen zoeken (ook vóór 1995) en passages over een artikel vinden, met vindplaats in Kamerstukken-notatie."
+policy:
+  allow_implicit_invocation: true

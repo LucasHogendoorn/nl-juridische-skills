@@ -1,0 +1,27 @@
+(FICTIEF — geplakte tekst voor testrun 2; verzonnen partijen)
+
+=== stuk 1: huurovereenkomst (uittreksel) ===
+Huurovereenkomst kantoorruimte, Stationsweg 12, Amersfoort.
+Verhuurder: Vastgoed Eemland B.V. Huurder: Studio Kleurrijk V.O.F.
+Ingangsdatum 1 maart 2021, duur vijf jaar. Huur € 1.450 per maand, vooruit te betalen voor de 1e van de maand.
+Art. 7: huurder meldt gebreken onverwijld schriftelijk.
+Getekend Amersfoort, 12 februari 2021.
+
+=== stuk 2: e-mail huurder ===
+Van: s.demir@kleurrijk.example  Datum: 6 november 2023
+Aan: beheer@eemland.example
+Het lekt al sinds de storm van eergisteren door het dakraam in de vergaderruimte. Er staan emmers. Foto's in de bijlage.
+
+=== stuk 3: brief verhuurder ===
+Amersfoort, 1 december 2023
+Geachte heer Demir, wij hebben pas op 28 november 2023 van u vernomen dat er een lekkage is. De dakdekker komt in januari. Voorts constateren wij dat de huur over november en december nog niet is voldaan (€ 2.900).
+
+=== stuk 4: WhatsApp huurder aan beheerder ===
+[15-01-2024 10:04] Sinan Demir: Dakdekker is er nog steeds niet geweest. Wij betalen de huur pas weer als het lek dicht is.
+[15-01-2024 10:30] Beheerder Eemland: Begrepen, ik zet het door.
+
+=== stuk 5: dagvaarding (uittreksel) ===
+Dagvaarding d.d. 4 maart 2024 namens Vastgoed Eemland B.V.
+2. Huurder is sinds november 2023 in gebreke met de betaling van de huur; per 1 maart 2024 staat € 7.250 open.
+3. Huurder heeft de lekkage eerst op 28 november 2023 gemeld; het dak is op 12 februari 2024 hersteld.
+4. Eiseres vordert ontbinding van de huurovereenkomst en ontruiming.

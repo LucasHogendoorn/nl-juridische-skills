@@ -1,0 +1,5 @@
+interface:
+  display_name: "Uitspraak samenvatten"
+  short_description: "Vat een Nederlandse uitspraak (ECLI of tekst) samen met r.o.-nummers en letterlijke citaten; ook korte en annotatie-variant."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,18 @@
+{
+  "name": "nl-juridische-skills",
+  "version": "0.1.0",
+  "description": "Nederlandse juridische skills: rechtspraak, wetteksten, parlementaire geschiedenis, tuchtrecht, termijnen, wettelijke rente, memo's en tegenlezingen op basis van officiële openbare bronnen.",
+  "author": {
+    "name": "Lucas Hogendoorn"
+  },
+  "license": "MIT",
+  "keywords": [
+    "juridisch",
+    "nederlands-recht",
+    "rechtspraak",
+    "legal",
+    "dutch-law"
+  ],
+  "homepage": "https://github.com/LucasHogendoorn/nl-juridische-skills",
+  "repository": "https://github.com/LucasHogendoorn/nl-juridische-skills"
+}

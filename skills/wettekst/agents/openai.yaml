@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wettekst"
+  short_description: "Haal de officiële tekst van een Nederlands wetsartikel (per lid) op, ook zoals die op een eerdere datum gold."
+policy:
+  allow_implicit_invocation: true

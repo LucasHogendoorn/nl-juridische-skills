@@ -1,0 +1,5 @@
+interface:
+  display_name: "Rechtspraak (NL en EU)"
+  short_description: "Haal Nederlandse en Europese uitspraken en EU-teksten op uit de officiële bronnen en zoek uitspraken op instantie, datum en rechtsgebied."
+policy:
+  allow_implicit_invocation: true

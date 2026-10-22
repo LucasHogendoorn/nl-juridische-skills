@@ -1,0 +1,5 @@
+interface:
+  display_name: "Memo schrijven"
+  short_description: "Nederlands juridisch memo in vijf secties, bronnen gecontroleerd"
+policy:
+  allow_implicit_invocation: false

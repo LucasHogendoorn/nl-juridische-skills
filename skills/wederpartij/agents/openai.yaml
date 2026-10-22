@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wederpartij-review"
+  short_description: "Kritische lezing van een concept-memo of processtuk vanuit de wederpartij: alleen bezwaren, geen herschrijving"
+policy:
+  allow_implicit_invocation: false

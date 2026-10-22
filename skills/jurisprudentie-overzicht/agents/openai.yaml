@@ -1,0 +1,5 @@
+interface:
+  display_name: "Jurisprudentie-overzicht"
+  short_description: "Overzicht van rechtspraak over één rechtsvraag, per uitspraak één randnummer, gesorteerd op uitkomst"
+policy:
+  allow_implicit_invocation: false
