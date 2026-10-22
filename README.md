@@ -14,7 +14,7 @@
   &nbsp;·&nbsp;
   <a href="#welke-skill-bij-welke-vraag">Alle skills</a>
   &nbsp;·&nbsp;
-  <a href="https://minuut.eu/?ref=juridische-skills-github">Minuut</a>
+  <a href="https://minuut.eu/juridische-skills">Website</a>
 </p>
 
 ---
